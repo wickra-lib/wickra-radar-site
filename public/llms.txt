@@ -1,0 +1,15 @@
+# Wickra Radar
+
+> A perp-universe alert radar built on the Wickra core. It scans a universe of perpetual-futures symbols each bar for microstructure signals — open-interest delta, funding flips, order-book imbalance, liquidation clusters and OI/price divergence — and emits ranked alerts, deterministic and byte-identical across all ten language bindings.
+
+Wickra Radar folds a serde spec over a perp universe: per-symbol signal detectors combined with cross-section ranking. The core logic lives in one Rust crate and is reachable from Rust, Python, Node.js, WASM and — over a C ABI — C, C++, C#, Go, Java and R, plus a reference CLI and an optional TUI. Every binding produces a byte-identical alert stream, pinned by golden fixtures in CI. Released under the MIT OR Apache-2.0 license.
+
+## Source and packages
+- [GitHub](https://github.com/wickra-lib/wickra-radar): Source, issues, and releases.
+- [crates.io](https://crates.io/crates/wickra-radar): Rust crate.
+- [PyPI](https://pypi.org/project/wickra-radar/): Python package.
+- [npm](https://www.npmjs.com/package/wickra-radar): Node package.
+
+## Ecosystem
+- [Wickra](https://wickra.org): The core streaming-indicator library the radar is built on.
+- [Docs](https://docs.wickra.org): Documentation for the Wickra core.
