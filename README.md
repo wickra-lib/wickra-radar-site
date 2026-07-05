@@ -1,6 +1,6 @@
 # wickra-radar-site
 
-Marketing site for [**wickra-radar**](https://github.com/wickra-lib/wickra-radar) — **screener.wickra.org**.
+Marketing site for [**wickra-radar**](https://github.com/wickra-lib/wickra-radar) — **radar.wickra.org**.
 
 Built with [VitePress](https://vitepress.dev) and deployed on Cloudflare Pages. The
 structure mirrors [webpage](https://github.com/wickra-lib/webpage) (wickra.org) and
