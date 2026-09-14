@@ -25,5 +25,5 @@ Targets .NET 8.
 
 ## More
 
-- [NuGet](https://www.nuget.org/packages/WickraRadar)
+- [NuGet](https://www.nuget.org/packages/Wickra.Radar)
 - [Source & examples](https://github.com/wickra-lib/wickra-radar/tree/main/examples/csharp)
