@@ -35,6 +35,13 @@
     "height": 20
   },
   {
+    "alt": "PyPI",
+    "href": "https://pypi.org/project/wickra-radar/",
+    "file": "/badges/pypi.svg",
+    "width": 95,
+    "height": 20
+  },
+  {
     "alt": "npm",
     "href": "https://www.npmjs.com/package/wickra-radar",
     "file": "/badges/npm.svg",
