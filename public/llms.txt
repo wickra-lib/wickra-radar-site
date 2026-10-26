@@ -11,5 +11,5 @@ Wickra Radar folds a serde spec over a perp universe: per-symbol signal detector
 - [npm](https://www.npmjs.com/package/wickra-radar): Node package.
 
 ## Ecosystem
-- [Wickra](https://wickra.org): The core streaming-indicator library the radar is built on.
+- [Wickra](https://wickra.org): The streaming-indicator core of the Wickra family.
 - [Docs](https://docs.wickra.org): Documentation for the Wickra core.

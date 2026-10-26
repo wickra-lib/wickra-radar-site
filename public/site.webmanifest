@@ -1,7 +1,7 @@
 {
   "name": "Wickra Radar",
   "short_name": "Wickra Radar",
-  "description": "Perp-universe alert radar over the Wickra core.",
+  "description": "Real-time derivatives signal scanner over a JSON RadarSpec — OI delta, funding flips, book imbalance, liquidations.",
   "icons": [
     { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
